@@ -2,7 +2,7 @@
 
 **Data Analyst · Control de Gestión · Buenos Aires, Argentina**
 
-Analista de datos con experiencia en industria manufacturaria. Me especializo en transformar datos operativos en reportes e indicadores que apoyan la toma de decisiones. En camino hacia Data Science, con foco en Python aplicado a forecasting y análisis de negocio.
+Analista de datos con experiencia en Industria. Me especializo en transformar datos operativos en reportes e indicadores que apoyan la toma de decisiones. En camino hacia Data Science, con foco en Python aplicado a forecasting y análisis de negocio.
 
 ---
 
